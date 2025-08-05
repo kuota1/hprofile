@@ -79,9 +79,6 @@
         "cpuArchitecture": "X86_64",
         "operatingSystemFamily": "LINUX"
     },
-    "registeredAt": "2025-08-05T01:38:01.091Z",
-    "registeredBy": "arn:aws:iam::084375558336:user/admin-terraform",
-    "enableFaultInjection": false,
     "tags": [
         {
             "key": "name",
